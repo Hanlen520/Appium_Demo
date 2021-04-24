@@ -1,6 +1,9 @@
-pytest==5.0.1
+pipreqs
+pytest==3.7
 Appium_Python_Client==0.46
 logzero==1.5.0
 lxml==4.4.0
 pypom==2.2.0
 selenium==3.141.0
+pytest-allure-adaptor
+logzero
